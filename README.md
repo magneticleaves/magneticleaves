@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a technologist and developer with particular interest in information security.
+I'm a technologist and developer with interest in information security.
 
 My prefered development language is Python, but I am also familiar with Java, C#, and JS/node.js.
 
